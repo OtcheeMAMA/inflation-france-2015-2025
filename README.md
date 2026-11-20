@@ -1,6 +1,6 @@
 # Analyse de l'évolution de l'inflation en France, 2015-2025 (Excel)
 
-Projet d'économie appliquée (Master 1, Université de La Réunion) – analyse descriptive réalisée uniquement avec Microsoft Excel : formules simples, sans macro ni VBA.
+Projet d'économie appliquée-analyse descriptive réalisée uniquement avec Microsoft Excel : formules simples
 
 **Problématique** : comment l'inflation a-t-elle évolué en France entre 2015 et 2025, et quelles sont les principales phases de cette évolution ?
 
